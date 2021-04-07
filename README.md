@@ -1,4 +1,4 @@
-# Apache-Log-Filter
+# Apache Log Filter
 
 # Function
 > Filters the apache log file according to **Date** and **IP Address**. It also sorts and counts the needed entries.
